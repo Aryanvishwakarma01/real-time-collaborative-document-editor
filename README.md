@@ -7,7 +7,9 @@
 *DURATION*: 4 WEEKS
 *MENTOR*: NEELA SANTOSH
 
-## A real-time collaborative text editor built with Node.js, Express, WebSockets, and React.
+## DESCRIPTION
+
+A real-time collaborative text editor built with Node.js, Express, WebSockets, and React.
 
 Features
 -Real-time text synchronization between multiple users
@@ -23,5 +25,6 @@ Prerequisites
 -npm (comes with Node.js)
 
 ##OUTPUT
+
 <img width="1366" height="602" alt="Image" src="https://github.com/user-attachments/assets/e68ca55c-988f-407b-bc5e-1454d884712b" />
 
