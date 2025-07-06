@@ -23,4 +23,5 @@ Prerequisites
 -npm (comes with Node.js)
 
 ##OUTPUT
+<img width="1366" height="602" alt="Image" src="https://github.com/user-attachments/assets/e68ca55c-988f-407b-bc5e-1454d884712b" />
 
